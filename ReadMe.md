@@ -5,9 +5,11 @@ This is a mod for Rogue Legacy 2.
 ### Description
 Increases the speed of flying drops like gold and ore. Gold will be immediately magnetized and fly towards the player.
 
-### Installation
-0.1 Download the file `BepInEx_win_x64_5.4.23.2.zip` (or newer) from [here](https://github.com/BepInEx/BepInEx/releases).
-0.2 Extract its content in the folder `[Steam]/SteamApps/common/Rogue Legacy 2` (this is the folder that contains the file `Rogue Legacy 2.exe`)
+### Installation of the ModLoader BepInEx
+1. Download the file `BepInEx_win_x64_5.4.23.2.zip` (or newer) from [here](https://github.com/BepInEx/BepInEx/releases).
+2. Extract its content in the folder `[Steam]/SteamApps/common/Rogue Legacy 2` (this is the folder that contains the file `Rogue Legacy 2.exe`)
+
+### Installation of this Mod
 1. Download the file `FasterFlyingGoldBags.zip` from [Releases](https://github.com/SchuhBaum/FasterFlyingGoldBags/releases/tag/v0.0.1).
 2. Again, extract its content in the folder `[Steam]/SteamApps/common/Rogue Legacy 2`.
 3. Start the game as normal.
